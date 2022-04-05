@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hello I,m Ahsan Amin 👋
 
-<!--
-**Ahsan-Amin/Ahsan-Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm a Developer, leader and Researcher!
+😄 I am young tech enthusiastic, who strives to learn, develop & Grow.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
