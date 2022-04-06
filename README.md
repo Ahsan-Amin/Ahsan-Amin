@@ -7,4 +7,9 @@ I'm a Developer, leader and Researcher!
 - 🔭 I’m currently working on React JS.
 - 🌱 I’m currently learning Wed Development & Block Chain.
 - 👯 I’m looking to collaborate with creative Developers, Problem Solver, entrepreneur.
--->
+ - Linked in[ Click to connect on Linked In](https://www.linkedin.com/in/ahsan-amin-/)
+ - Instagram [Click to connect on Instagram](https://www.instagram.com/ahsan_amin_harry/)
+# 
+ - Linked in[ Click to connect on Linked In](https://www.linkedin.com/in/ahsan-amin-/)
+ - Instagram [Click to connect on Instagram](https://www.instagram.com/ahsan_amin_harry/)
+
