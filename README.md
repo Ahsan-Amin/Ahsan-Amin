@@ -14,4 +14,6 @@ I'm a Developer, leader and Researcher!
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Amin&&show_icons=true&title_color=#000000&icon_color=bb2acf&text_color=#ffffff&bg_color=#000000">
-
+ 
+#
+[![Ahsan Amin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ahsan-Amin&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Ahsan-Amin/github-readme-activity-graph)
