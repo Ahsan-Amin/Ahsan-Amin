@@ -16,4 +16,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Amin&&show_icons=true&title_color=#000000&icon_color=bb2acf&text_color=#ffffff&bg_color=#000000">
  
 #
-<a href="https://www.instagram.com/ahsan_amin_harry/.com/pics/logo-instagram-png" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-5.png" width="40" alt="instagram logos png images free download" /></a>
+<center>
+ <a href="https://www.linkedin.com/in/ahsan-amin-/" title="Linked in logo"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="30" alt="Linkedin Logo Png Available In Different Size" /></a>
+<a href="https://www.instagram.com/ahsan_amin_harry/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="30" alt="logo ig, instagram new logo vector download" /></a>
+
+</center>
