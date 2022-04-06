@@ -10,6 +10,6 @@ I'm a Developer, leader and Researcher!
  - Linked in[ Click to connect on Linked In](https://www.linkedin.com/in/ahsan-amin-/)
  - Instagram [Click to connect on Instagram](https://www.instagram.com/ahsan_amin_harry/)
 # 
- - Linked in[ Click to connect on Linked In](https://www.linkedin.com/in/ahsan-amin-/)
+[<a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="30" alt="Linkedin Logo Png Available In Different Size" /></a>](https://www.linkedin.com/in/ahsan-amin-/)
  - Instagram [Click to connect on Instagram](https://www.instagram.com/ahsan_amin_harry/)
 
