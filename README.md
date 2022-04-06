@@ -14,5 +14,4 @@ I'm a Developer, leader and Researcher!
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Amin&&show_icons=true&title_color=#000000&icon_color=bb2acf&text_color=#ffffff&bg_color=#000000">
-#
-python contribute.py --repository=git@github.com:your-Ahsan-Amin/your-repo.git
+
